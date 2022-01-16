@@ -1,0 +1,8 @@
+Softwares required: npm, git, postman, mongoDB, vscode
+
+Initialise with: .gitignore file, git init and npm init
+
+Regular dependancies
+npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
+Dev dependancies
+npm i -D nodemon concurrently
